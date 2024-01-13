@@ -1,0 +1,77 @@
+name: fluffy_challenge_week_1
+description: "A new Flutter project."
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.2.3 <4.0.0'
+
+dependencies:
+  adaptive_theme: 
+  animations: 
+  awesome_calendar: 
+  bitsdojo_window: 
+  bootstrap_icons: 
+  chopper: 
+  collection: 
+  cupertino_icons: ^1.0.2
+  encrypted_shared_preferences: 
+  enefty_icons: 
+  equatable: 
+  flex_color_scheme: 
+  flutter:
+    sdk: flutter
+  flutter_animate: 
+  flutter_markdown: 
+  flutter_mobx: 
+  flutter_screwdriver: 
+  flutter_spinkit: 
+  flutter_svg: 
+  get_it: 
+  go_router: 
+  hive: 
+  hive_flutter: 
+  http: 
+  image: 
+  intl: 
+  json_annotation: 
+  line_icons: 
+  logging: 
+  lottie: 
+  material_color_utilities: 
+  mobx: 
+  package_info_plus: 
+  paged_vertical_calendar: 
+  path: 
+  path_provider: 
+  persistent_bottom_nav_bar_v2: 
+  provider: 
+  pub_semver: 
+  screwdriver: 
+  shared_preferences: 
+  sqflite: 
+  synchronized: 
+  system_tray: 
+  upgrader: 
+  url_launcher: 
+  uuid: 
+  window_manager: 
+
+dev_dependencies:
+  flutter_lints: ^2.0.0
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/fonts/
+    - assets/images/
+
+  fonts:
+    - family: SF Pro
+      fonts:
+        - asset: assets/fonts/SF-Pro.ttf
